@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Alfarabi Zikri 👋</h1>
 
+![Alfarabi Zikri](img/github-header-banner.png)
+
 <p align="left">
   💻 Software Engineering Student at Polytechnic Negeri Lhokseumawe <br>
   🌱 Currently learning <strong>React JS</strong> and Web Development <br>
