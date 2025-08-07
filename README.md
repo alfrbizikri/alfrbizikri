@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Welcome to my landing page 👋
 
 <!--
 **alfrbizikri/alfrbizikri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **React Js**...
+
+![good morning](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3ZXFnaDJ4dGs3NmNtcndicGh5cTJ1MHAzbmIxajA1enEydDdleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif)
