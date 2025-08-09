@@ -6,11 +6,24 @@
   💻 Software Engineering Student at Polytechnic Negeri Lhokseumawe <br>
   🌱 Currently learning <strong>React JS</strong> and Web Development <br>
   🔭 Interested in C, C++, C#, and Frontend tech <br>
-  📫 Reach me on: 
-  <a href="">Email</a> • 
-  <a href="">LinkedIn</a> • 
-  <a href="">Instagram</a>
 </p>
+
+---
+
+## 📫 Reach me on :
+<p align="left">
+  <a href="https://www.instagram.com/a.pattnma/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="38" />
+  </a>
+  <a href="https://linkedin.com/in/username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
+  </a>
+  <a href="mailto:emailkamu@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="38" />
+  </a>
+</p>
+
+
 
 ---
 
@@ -31,7 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
 </p>
+
 
 
 ---
