@@ -60,12 +60,6 @@
 </p>
 
 
-
----
-
-⭐️ From [Alfarabi Zikri](https://github.com/alfbizikri)
-
-
 ```diff
 + I love learning something new every day!
 - I hate bugs that disappear when I try to show them to someone else 😤
