@@ -49,11 +49,7 @@
 
 ---
 
-<h2 align="left">🎯Play Games With Me</h2>
 
-## 🐍 Snake animation
-
-![Snake animation](https://raw.githubusercontent.com/USERNAME/REPO/output/snake.svg)
 
 ###
 
@@ -63,7 +59,11 @@
 
 ![funny gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3ZXFnaDJ4dGs3NmNtcndicGh5cTJ1MHAzbmIxajA1enEydDdleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif)
 
-```diff
-+ I love learning something new every day!
-- I hate bugs that disappear when I try to show them to someone else 😤
+
+
+<h2 align="left">🎯Play Games With Me</h2>
+
+## 🐍 Snake animation
+
+![Snake animation](https://raw.githubusercontent.com/USERNAME/REPO/output/snake.svg)
 
