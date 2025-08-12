@@ -47,7 +47,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
 </p>
 
+---
 
+<h2 align="left">🎯Play Games With Me</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfrbizikri/alfrbizikri/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfrbizikri/alfrbizikri/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alfrbizikri/alfrbizikri/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/alfrbizikri/alfrbizikri/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
@@ -58,3 +74,4 @@
 ```diff
 + I love learning something new every day!
 - I hate bugs that disappear when I try to show them to someone else 😤
+
