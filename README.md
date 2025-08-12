@@ -65,5 +65,6 @@
 
 ## 🐍 Snake animation
 
-![Snake animation](https://raw.githubusercontent.com/USERNAME/REPO/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/alfbizikri/alfbizikri/output/snake.svg)
+
 
