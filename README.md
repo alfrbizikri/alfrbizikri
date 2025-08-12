@@ -12,23 +12,6 @@
   🔭 Interested in <strong>C, C++, C#</strong> and modern Frontend technologies <br>
 </p>
 
----
-
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://www.instagram.com/a.pattnma/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="38" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn" />
-  </a>
-  <a href="mailto:emailkamu@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Gmail" />
-  </a>
-</p>
-
----
-
 ## 🚀 About Me
 - 🌟 Passionate about technology and problem solving  
 - 🎓 Currently studying **Software Engineering** at Politeknik Negeri Lhokseumawe  
@@ -50,6 +33,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="https://www.instagram.com/a.pattnma/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="38" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn" />
+  </a>
+  <a href="mailto:emailkamu@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Gmail" />
+  </a>
 </p>
 
 ---
