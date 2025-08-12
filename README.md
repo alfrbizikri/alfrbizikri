@@ -51,17 +51,9 @@
 
 <h2 align="left">🎯Play Games With Me</h2>
 
-###
+## 🐍 Snake animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfrbizikri/alfrbizikri/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfrbizikri/alfrbizikri/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alfrbizikri/alfrbizikri/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/alfrbizikri/alfrbizikri/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/USERNAME/REPO/output/snake.svg)
 
 ###
 
