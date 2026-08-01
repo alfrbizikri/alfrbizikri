@@ -48,7 +48,7 @@ const profile = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,php,html,css,react,laravel,nextjs,git,vscode,figma,tailwind,bootstrap,mysql,c,cpp,c#,xd&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,php,html,css,react,laravel,nextjs,git,vscode,figma,tailwind,bootstrap,mysql,c,cpp,xd&theme=dark" alt="Tech Stack" />
 
 </div>
 
