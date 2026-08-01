@@ -17,13 +17,23 @@
 ## 🚀 About Me
 
 ```yaml
-name: Alfarabi Zikri
-role: Informatics Engineering Student
-campus: Politeknik Negeri Lhokseumawe
-interested_in: [Modern Front end developer]
-core_skills: [JavaScript, PHP, React, Next.js, laravel, Tailwind, Bootstrap]
-fun_fact: "Sometimes I talk to my code... and it works"
-motto: "I love learning something new every day"
+const profile = {
+  name: "Alfarabi Zikri",
+  role: "Informatics Engineering Student",
+  campus: "Politeknik Negeri Lhokseumawe",
+  interestedIn: ["Modern Front-End Development"],
+  coreSkills: [
+    "JavaScript",
+    "PHP",
+    "React",
+    "Next.js",
+    "Laravel",
+    "Tailwind CSS",
+    "Bootstrap",
+  ],
+  funFact: "Sometimes I talk to my code... and it works.",
+  motto: "I love learning something new every day.",
+};
 ```
 
 - 🌟 Passionate about technology and problem solving
