@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:9D00FF&height=220&section=header&text=Hi%20There,%20I'm%20Alfarabi%20Zikri&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Informatics%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:9D00FF&height=220&section=header&text=Hi%20There,%20I'm%20Alfarabi%20Zikri&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Informatics%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile+%F0%9F%91%8B;I'm+Alfarabi+Zikri;Web+Developer%7C+Informatics+Student;C%2C+C%2B%2B%2C+HTML%2C+CSS%2C+PHP;React.js+%26+Next.js;Sometimes+I+talk+to+my+code...+and+it+works+%F0%9F%98%84" alt="Typing SVG" />
 
