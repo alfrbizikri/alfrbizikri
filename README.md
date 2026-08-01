@@ -1,66 +1,101 @@
-<h1 align="center">Hi there, What's Up 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+My+Profile;I'm+Alfarabi+Zikri;Software+Engineer+%7C+Informatics+Student;C%2C+C%2B%2B%2C+HTML%2C+CSS%2C+PHP;Learning+React+and+Next.js" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:9D00FF&height=220&section=header&text=Hi%20There,%20I'm%20Alfarabi%20Zikri&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Informatics%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-![Alfarabi Zikri](img/github-header-banner.png)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile+%F0%9F%91%8B;I'm+Alfarabi+Zikri;Software+Engineer+%7C+Informatics+Student;C%2C+C%2B%2B%2C+HTML%2C+CSS%2C+PHP+Developer;Learning+React.js+%26+Next.js;Sometimes+I+talk+to+my+code...+and+it+works+%F0%9F%98%84" alt="Typing SVG" />
 
-<p align="center">
-  💻 Software Engineering Student at <strong>Politeknik Negeri Lhokseumawe</strong> <br>
-  🌱 Currently learning <strong>React.js</strong> and <strong>Next.js</strong> <br>
-  🔭 Interested in <strong>C, C++, C#</strong> and modern Frontend technologies <br>
-</p>
+<br>
+
+<a href="https://github.com/alfrbizikri"><img src="https://komarev.com/ghpvc/?username=alfrbizikri&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/></a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-9D00FF?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Based%20in-Aceh%2C%20Indonesia-00F7FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+
+</div>
+
+---
 
 ## 🚀 About Me
-- 🌟 Passionate about technology and problem solving  
-- 🎓 Currently studying **Software Engineering** at Politeknik Negeri Lhokseumawe  
-- 💡 Skilled in **C, C++, HTML, CSS, PHP**  
-- 🚀 Currently learning **React.js** & **Next.js**  
-- 🧠 Sometimes I talk to my code... and it works  
+
+```yaml
+name: Alfarabi Zikri
+role: Software Engineering Student
+campus: Politeknik Negeri Lhokseumawe
+currently_learning: [React.js, Next.js]
+interested_in: [C, C++, C#, Modern Frontend]
+core_skills: [C, C++, HTML, CSS, PHP]
+fun_fact: "Sometimes I talk to my code... and it works"
+motto: "I love learning something new every day"
+```
+
+- 🌟 Passionate about technology and problem solving
+- 🎓 Studying **Software Engineering** at Politeknik Negeri Lhokseumawe
+- 💡 Skilled in **C, C++, HTML, CSS, PHP**
+- 🔭 Currently learning **React.js** & **Next.js**
+- 🤝 Open to campus projects, collabs, and study groups
 
 ---
 
 ## 🛠️ Technologies & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-</p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,csharp,html,css,php,js,react,nextjs,git,vscode,figma,mysql,xd&theme=dark" alt="Tech Stack" />
+
+</div>
 
 ---
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://www.instagram.com/a.pattnma/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="38" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn" />
-  </a>
-  <a href="mailto:emailkamu@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Gmail" />
-  </a>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alfrbizikri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=9D00FF&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alfrbizikri&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=9D00FF&currStreakLabel=00F7FF" alt="Streak Stats" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfrbizikri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165"/>
+
+</div>
+
+---
+
+## 👾 Pac-Man Munches My Contributions
+
+<div align="center">
+
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfrbizikri/alfrbizikri/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfrbizikri/alfrbizikri/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alfrbizikri/alfrbizikri/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 
 ---
 
 ## ✨ Fun Section
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3ZXFnaDJ4dGs3NmNtcndicGh5cTJ1MHAzbmIxajA1enEydDdleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif" width="200" alt="funny gif" />
-</p>
 
+<div align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3ZXFnaDJ4dGs3NmNtcndicGh5cTJ1MHAzbmIxajA1enEydDdleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif" width="220" alt="funny gif" />
+
+</div>
 
 ```diff
 + I love learning something new every day!
 - I hate bugs that disappear when I try to show them to someone else 😤
+```
 
+---
 
+<div align="center">
 
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,100:00F7FF&height=100&section=footer" width="100%"/>
+
+</div>
