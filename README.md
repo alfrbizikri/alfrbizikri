@@ -38,7 +38,7 @@ motto: "I love learning something new every day"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,csharp,html,css,php,js,react,nextjs,git,vscode,figma,mysql,xd&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,php,html,css,react,laravel,nextjs,git,vscode,figma,tailwind,bootstrap,mysql,c,cpp,csharp,xd&theme=dark" alt="Tech Stack" />
 
 </div>
 
