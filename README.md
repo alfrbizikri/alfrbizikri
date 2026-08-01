@@ -38,7 +38,7 @@ const profile = {
 
 - 🌟 Passionate about technology and problem solving
 - 🎓 Studying **Software Engineering** at Politeknik Negeri Lhokseumawe
-- 💡 Skilled in **JavaScript, PHPP React, Next.js, laravel, Tailwind, Bootstrap**
+- 💡 Skilled in **JavaScript, PHP React, Next.js, laravel, Tailwind, Bootstrap**
 - 🔭 Currently learning **Full Stack**
 - 🤝 Open to campus projects, collabs, and study groups
 
