@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:9D00FF&height=220&section=header&text=Hi%20There,%20I'm%20Alfarabi%20Zikri&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Informatics%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile+%F0%9F%91%8B;I'm+Alfarabi+Zikri;Web+Developer%7C+Informatics+Student;C%2C+C%2B%2B%2C+HTML%2C+CSS%2C+PHP+Developer;React.js+%26+Next.js;Sometimes+I+talk+to+my+code...+and+it+works+%F0%9F%98%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile+%F0%9F%91%8B;I'm+Alfarabi+Zikri;Web+Developer%7C+Informatics+Student;C%2C+C%2B%2B%2C+HTML%2C+CSS%2C+PHP;React.js+%26+Next.js;Sometimes+I+talk+to+my+code...+and+it+works+%F0%9F%98%84" alt="Typing SVG" />
 
 <br>
 
@@ -38,7 +38,7 @@ motto: "I love learning something new every day"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,php,html,css,react,laravel,nextjs,git,vscode,figma,tailwind,bootstrap,mysql,c,cpp,csharp,xd&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,php,html,css,react,laravel,nextjs,git,vscode,figma,tailwind,bootstrap,mysql,c,cpp,c#,xd&theme=dark" alt="Tech Stack" />
 
 </div>
 
@@ -49,9 +49,8 @@ motto: "I love learning something new every day"
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=alfrbizikri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=9D00FF&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alfrbizikri&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=9D00FF&currStreakLabel=00F7FF" alt="Streak Stats" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfrbizikri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=alfrbizikri&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=9D00FF&currStreakLabel=00F7FF" alt="Streak Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165"/>
 
 </div>
 
